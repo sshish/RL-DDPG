@@ -8,6 +8,7 @@ run the notebook (main.ipynb)
 **THIS IS A WORK IN PROGRESS** (including the readme)
 
 ## Requirements
+* Python 3
 * PyTorch
 * CUDA support (can be disabled by editing the few lines in the code that contain `cuda`)
 * OpenAI Gym
