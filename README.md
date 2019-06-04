@@ -9,6 +9,6 @@ run the notebook (main.ipynb)
 
 ## Requirements
 * PyTorch
-* CUDA support (can be disabled by editing the few lines in the code that contain 'cuda')
+* CUDA support (can be disabled by editing the few lines in the code that contain `cuda`)
 * OpenAI Gym
-* the hiddenlayer python module for dynamic plots
+* the `hiddenlayer` python module for dynamic plots
