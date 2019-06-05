@@ -1,8 +1,6 @@
 # RL-DDPG
 PyTorch implementation of DDPG, tested on OpenAI Gym environments.
 
-learns to solve the LunarLanderContinuous-v2 task in about 300 episodes
-
 run the notebook (main.ipynb)
 
 **THIS IS A WORK IN PROGRESS** (including the readme)
