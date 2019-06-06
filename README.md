@@ -2,7 +2,7 @@
 PyTorch implementation of DDPG, tested on OpenAI Gym environments.
 
 Solves the `'LunarLanderContinuous-v2'` environment task in a few hundred epsisodes:
-
+![](https://github.com/steevsteev/RL-DDPG/blob/master/assets/learning%20curve.png)
 
 **THIS IS A WORK IN PROGRESS** (including the readme)
 
