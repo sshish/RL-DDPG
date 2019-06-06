@@ -1,7 +1,8 @@
 # RL-DDPG
 PyTorch implementation of DDPG, tested on OpenAI Gym environments.
 
-run the notebook (main.ipynb)
+Solves the `'LunarLanderContinuous-v2'` environment task in a few hundred epsisodes:
+
 
 **THIS IS A WORK IN PROGRESS** (including the readme)
 
@@ -13,3 +14,6 @@ run the notebook (main.ipynb)
 * CUDA support (can be disabled by editing the few lines in the code that contain `cuda`)
 * OpenAI Gym
 * the `hiddenlayer` python module for dynamic plots
+
+## Usage
+* run the notebook (main.ipynb)
